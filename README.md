@@ -1,7 +1,6 @@
 <p align="center">
-    <img width="200" src="[https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png](https://avatars.githubusercontent.com/u/158982187?v=4)">
-</p>
-
+    <img width="200" src="[https://github.com/Ysampk/Ysampk.github.io/blob/main/IMG_1798p.jpg]">
+</p> 
 <h1 align="center">Personal Information 📝</h1> 
 
 <h3 align="center"> Jayasekara Mudiyanselage Rambukpothe Gedara Bandula Yedum Sampath Karunarathne</h3>
