@@ -1,6 +1,6 @@
 <p align="center">
     
-<img width="200" src="https://github.com/Ysampk/Ysampk.github.io/blob/main/IMG_1798p.jpg">
+<img width="200" src="https://github.com/Ysampk/Ysampk.github.io/blob/main/Untitled%20design.png">
 
 </p> 
 
