@@ -1,6 +1,11 @@
+# <h1 src="https://github.com/Ysampk/Ysampk.github.io/blob/main/IMG_1798p.jpg" width="60px" /></h1>
+
 <p align="center">
     <img width="200" src="[https://github.com/Ysampk/Ysampk.github.io/blob/main/IMG_1798p.jpg]">
 </p> 
+
+<div>
+    
 <h1 align="center">Personal Information 📝</h1> 
 
 <h3 align="center"> Jayasekara Mudiyanselage Rambukpothe Gedara Bandula Yedum Sampath Karunarathne</h3>
