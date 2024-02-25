@@ -1,6 +1,6 @@
 <div align="center"  class="icons-social" style="margin-left: 10px;">
-<img width="200" src="https://github.com/Ysampk/Ysampk.github.io/blob/main/Untitled%20design.png">
-</div>
+<img width="200" src="https://github.com/Ysampk/Ysampk.github.io/blob/main/Untitled%20design.png?raw=true">
+</div> 
     
 <h1 align="center">Personal Information 📝</h1> 
 
