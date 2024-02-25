@@ -93,8 +93,5 @@ I am a talented and self-motivated individual with excellent organizational skil
 
 - **Densil Kalupahana**
   - Head of Technical Compliance, Cable Solutions (Pvt) Ltd, Sri Lanka
-  - [densil.k@cablesol.com](mailto:densil.k@cablesol.com) | +94 777 31 88 27
+  - [densil.k@cablesol.com](mailto:densil.k@cablesol.com)
 
-- **Shayne Madappulli**
-  - Business Development Director, T&G Lanka (Pvt) Ltd, Sri Lanka
-  - [shayne@tglanka.lk](mailto:shayne@tglanka.lk) | +94 777 77 79 14
