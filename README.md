@@ -1,4 +1,4 @@
-# Personal Information 📝
+<h1 align="center"># Personal Information 📝</h1>h1>
 
 - **Name:** Jayasekara Mudiyanselage Rambukpothe Gedara Bandula Yedum Sampath Karunarathne
 - **Address:** No. 88, Ransiri Uyana Road, Korathota, Kaduwela, Sri Lanka
