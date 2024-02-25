@@ -2,7 +2,6 @@
 <img width="200" src="https://github.com/Ysampk/Ysampk.github.io/blob/main/Untitled%20design.png">
 </p> 
 
-<div>
     
 <h1 align="center">Personal Information 📝</h1> 
 
