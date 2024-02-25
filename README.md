@@ -1,12 +1,12 @@
 # <h1 align="center">Personal Information 📝</h1> 
 
-- **Name:** Jayasekara Mudiyanselage Rambukpothe Gedara Bandula Yedum Sampath Karunarathne
-- **Address:** No. 88, Ransiri Uyana Road, Korathota, Kaduwela, Sri Lanka
-- **Phone:** +94 775 84 90 88
-- **Email:** sampathtdn@gmail.com
-- **LinkedIn:** [www.linkedin.com/in/yedum-karunarathna](www.linkedin.com/in/yedum-karunarathna)
-- **Sex:** Male | **Date of Birth:** 07/05/1985 | **Nationality:** Sinhalese
-- **Languages:** English, Sinhala (Native)
+<h3 align="center"> Jayasekara Mudiyanselage Rambukpothe Gedara Bandula Yedum Sampath Karunarathne</h3>
+<h4 align="center"> No. 88, Ransiri Uyana Road, Korathota, Kaduwela, Sri Lanka</h4> 
+<h4 align="center"> +94 775 84 90 88</h4>
+<h4 align="center"> sampathtdn@gmail.com</h4>
+<h4 align="center"> www.linkedin.com/in/yedum-karunarathna</h4>
+<h4 align="center">Sex: Male | **Date of Birth:** 07/05/1985 | **Nationality:** Sinhalese</h4>
+<h4 align="center">Languages: English, Sinhala (Native)</h4>
 
 ---
 
