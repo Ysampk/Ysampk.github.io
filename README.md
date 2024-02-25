@@ -83,15 +83,10 @@ I am a talented and self-motivated individual with excellent organizational skil
 - Project Management.
 - Analytical skills, creativity, and innovations.
 
+---
+
 ## Memberships
 - Registered Member of Engineers Council of Sri Lanka.
 - Associate member of Institute of Engineers Sri Lanka.
 
 ---
-
-  <h1 align="center">References 📞</h1>
-
-- **Densil Kalupahana**
-  - Head of Technical Compliance, Cable Solutions (Pvt) Ltd, Sri Lanka
-    [densil.k@cablesol.com](mailto:densil.k@cablesol.com)
-
