@@ -1,4 +1,4 @@
-<h1 align="center"># Personal Information 📝</h1>h1>
+# <h1 align="center">Personal Information 📝</h1> 
 
 - **Name:** Jayasekara Mudiyanselage Rambukpothe Gedara Bandula Yedum Sampath Karunarathne
 - **Address:** No. 88, Ransiri Uyana Road, Korathota, Kaduwela, Sri Lanka
@@ -10,13 +10,13 @@
 
 ---
 
-# About Me 🌟
+# <h1 align="center">About Me 🌟</h1> 
 
 I am a talented and self-motivated individual with excellent organizational skills. I possess 12 years of experience in manufacturing quality assurance, with expertise in mechanical, electrical, and electronic engineering across various sectors. I excel in problem-solving, forecasting, and developing creative solutions, with a knack for effective management, including human resource management. A quick learner with strong communication skills.
 
 ---
 
-# Work Experience 💼
+# <h1 align="center">Work Experience 💼</h1> 
 
 ## Quality Assurance Manager 
 ### T&G Lanka (Pvt) Ltd, Sri Lanka (Subsidiary of T&G Electro, Norway)
@@ -43,7 +43,7 @@ I am a talented and self-motivated individual with excellent organizational skil
 
 ---
 
-# Education 🎓
+# <h1 align="center">Education 🎓</h1>
 
 - **Post Graduate Diploma in Electronics & Automation**
   - University of Moratuwa, Sri Lanka
@@ -66,7 +66,7 @@ I am a talented and self-motivated individual with excellent organizational skil
 
 ---
 
-# Certifications 🏆
+# <h1 align="center">Certifications 🏆</h1>
 
 - Lean, Six Sigma Green Belt - Caterpillar Inc, Sri Lanka (Mar 2019)
 - Lead Auditor ISO 9001:2015 - Intertek, India (Dec 2018)
@@ -74,7 +74,7 @@ I am a talented and self-motivated individual with excellent organizational skil
 
 ---
 
-# Skills & Memberships 🛠️
+# <h1 align="center">Skills & Memberships 🛠️</h1>
 
 ## Skills
 - Technical skills & knowledge in various industries.
@@ -89,7 +89,7 @@ I am a talented and self-motivated individual with excellent organizational skil
 
 ---
 
-# References 📞
+# <h1 align="center">References 📞</h1>
 
 - **Densil Kalupahana**
   - Head of Technical Compliance, Cable Solutions (Pvt) Ltd, Sri Lanka
