@@ -25,11 +25,10 @@ I am a talented and self-motivated individual with excellent organizational skil
 #### T&G Lanka (Pvt) Ltd, Sri Lanka (Subsidiary of T&G Electro, Norway)
 *Apr 2023 - Present*
 
-- Implementation of ISO 9001:2015 Quality Management System.
+- Implementating and mainating of ISO 9001:2015 Quality Management System.
 - Maintenance of all Quality Management System documentation.
 - Lead internal audits and ensure process controls.
-- Solve day-to-day quality and service issues.
-- Handle customer complaints effectively.
+- Handle customer complaints.
 - Develop First Article Inspection (FAI) reports.
 - Lead new product contract review and risk assessment.
 - Conduct training on Quality Management System.
