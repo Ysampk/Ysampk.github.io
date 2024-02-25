@@ -1,7 +1,7 @@
-# <h1 src="https://github.com/Ysampk/Ysampk.github.io/blob/main/IMG_1798p.jpg" width="60px" /></h1>
-
 <p align="center">
-    <img width="200" src="[https://github.com/Ysampk/Ysampk.github.io/blob/main/IMG_1798p.jpg]">
+    
+<img width="200" src="https://github.com/Ysampk/Ysampk.github.io/blob/main/IMG_1798p.jpg">
+
 </p> 
 
 <div>
